@@ -1,0 +1,10 @@
+C:\Projetos\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Projetos\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Projetos\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Projetos\Checkers\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Projetos\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Projetos\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Projetos\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Projetos\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Projetos\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Projetos\Checkers\Checkers\obj\Debug\Checkers.pdb
